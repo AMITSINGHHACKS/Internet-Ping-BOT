@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMITSINGHHACKS/BOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMITSINGHHACKS/BOT/issues"
+  },
+  "homepage": "https://github.com/AMITSINGHHACKS/BOT#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
